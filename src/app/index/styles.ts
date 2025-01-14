@@ -70,7 +70,7 @@ export const styles = StyleSheet.create({
          color: colors.gray[400],
          fontSize: 14
       },
-      modalfooter: {
+      modalFooter: {
          flexDirection: "row",
          marginTop: 32,
          width: "100%",
